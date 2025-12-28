@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Cyber Club Documentation Site',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/cyber_club_color.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
