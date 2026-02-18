@@ -1,6 +1,6 @@
-# Website
+# Blugold Group Docs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Our documentation page is built using [Docusaurus](https://docusaurus.io/) for ease of use.
 
 ## Local Development
 
