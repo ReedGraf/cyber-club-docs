@@ -138,7 +138,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Blugold Group`,
+        copyright: `Written by The Blugold Group. No Rights Reserved We're College Students Not Lawyers`,
       },
       prism: {
         theme: prismThemes.github,
