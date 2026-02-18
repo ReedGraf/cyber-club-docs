@@ -96,7 +96,7 @@ const config = {
             label: 'Docs',
           },
           {
-            to: '/projects', 
+            to: '/docs/category/projects', 
             label: 'Projects', 
             position: 'left'
           },
