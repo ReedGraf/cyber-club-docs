@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
+title: Overview
 ---
 
-# Welcome to our Docs Page
+# THIS IS A DEFAULT TEMPLATE
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
