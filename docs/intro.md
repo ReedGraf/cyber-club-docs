@@ -9,4 +9,5 @@ Welcome to the UWEC Cybersecurity Club Docs Page!
 
 Here you can find different materials we have gathered
 
-![club-logo](/img/cyber_club_color.png)
+<img src="/img/logo.png" alt="club-logo" width="300" height="300"></img>
+
