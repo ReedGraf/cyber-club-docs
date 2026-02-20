@@ -101,6 +101,11 @@ const config = {
             position: 'left'
           },
           {
+            to: '/blog', 
+            label: 'Blog', 
+            position: 'left'
+          },
+          {
             href: 'https://github.com/Blugold-Group/cyber-club-docs',
             label: 'GitHub',
             position: 'right',
@@ -145,6 +150,10 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  markdown: {
+    mermaid: true,
+  },
+  themes: ['@docusaurus/theme-mermaid'],
 };
 
 export default config;
